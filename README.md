@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left"><b>🤝 Please fill free to contact me if you have any ideas for collaboration!</b></h3>
+<h3 align="left"><b>🤝 My contacts: </b></h3>
 
 ###
 
