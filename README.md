@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><b>📊 My GitHub stats:</b></p>
+<h3 align="left"><b>📊 My GitHub stats:</b></h3>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left"><b>💼 My tools for success:</b></p>
+<h3 align="left"><b>💼 My tools for success:</b></h3>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left"><b>🤝 Please fill free to contact me if you have any ideas for collaboration!</b></p>
+<h3 align="left"><b>🤝 Please fill free to contact me if you have any ideas for collaboration!</b></h3>
 
 ###
 
