@@ -15,14 +15,6 @@
 🏔️ I traveled to Himalai  
 🏃 One day I am planning to run a maraphon
 
-<h3 align="left"><b>📊 GitHub Stats:</b></h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aklimchu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <h3 align="left"><b>💻 Tech Stack:</b></h3>
@@ -47,6 +39,21 @@
 
 ###
 
+<h3 align="left"><b>🚀 Featured projects:</b></h3>
+
+###
+
+| 📦 Project | Language | Description |
+|-----------|---------------|-----------------|
+|  [ft_irc](https://github.com/aklimchu/ft_irc) | C++ | Internet Relay Chat (IRC) server implemented in C++ |
+|  [minishell](https://github.com/aklimchu/minishell) | C | A project that recreates the basic functionalities of the Bash shell | 
+|  [libft](https://github.com/aklimchu/libft) | C | Key functions from the C standard library + few custom ones | 
+|  [cub3D](https://github.com/aklimchu/cub3D) | C | A “realistic” 3D graphical representation of the inside of a maze | 
+|  [Inception](https://github.com/aklimchu/Inception) | C | Virtualizing a full infrastructure using Docker Compose | 
+
+
+###
+
 <h3 align="left"><b>📫 Contacts: </b></h3>
 
 ###
@@ -61,6 +68,16 @@
   <a href="mailto:klimchuk90@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<h3 align="left"><b>📊 GitHub Stats:</b></h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aklimchu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
