@@ -9,9 +9,11 @@
 
 ###
 
-<h3 align="left"><b>💡 Fun Fact:</b></h3>
+<h3 align="left"><b>💡 Fun Facts:</b></h3>
 
-🧮 I used to work part-time as a maths tutor   
+🧮 I used to work part-time as a maths tutor  
+🏔️ I traveled to Himalai  
+🏃 One day I am planning to run a maraphon
 
 <h3 align="left"><b>📊 GitHub Stats:</b></h3>
 
