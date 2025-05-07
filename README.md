@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Andrei and I'm a coding student from Helsinki, Finland</h2>
+<h2 align="left">💫 About Me:</h2>
 
 ###
 
-<h3 align="left"><b>📊 My GitHub stats:</b></h3>
+<h3 align="left"><b>📊 GitHub Stats:</b></h3>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left"><b>💼 My tools for success:</b></h3>
+<h3 align="left"><b>💻 Tech Stack:</b></h3>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left"><b>🤝 My contacts: </b></h3>
+<h3 align="left"><b>📫 Contacts: </b></h3>
 
 ###
 
