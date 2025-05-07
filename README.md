@@ -49,7 +49,7 @@
 |  [minishell](https://github.com/aklimchu/minishell) | C | A project that recreates the basic functionalities of the Bash shell | 
 |  [libft](https://github.com/aklimchu/libft) | C | Key functions from the C standard library + few custom ones | 
 |  [cub3D](https://github.com/aklimchu/cub3D) | C | A “realistic” 3D graphical representation of the inside of a maze | 
-|  [Inception](https://github.com/aklimchu/Inception) | C | Virtualizing a full infrastructure using Docker Compose | 
+|  [Inception](https://github.com/aklimchu/Inception) | Docker, bash | Virtualizing a full infrastructure using Docker Compose | 
 
 
 ###
