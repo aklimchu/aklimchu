@@ -5,10 +5,13 @@
 👨🏻‍💻 Now I study at [Hive Helsinki](https://www.hive.fi/) coding academy          
 🌱 I’m currently working with C and C++  
 💼 I have a background in sales and business development  
-🧮 I used to work part-time as a maths tutor   
 💞️ I’m looking for an opportunity in a company where I can improve my skills
 
 ###
+
+<h3 align="left"><b>💡 Fun Fact:</b></h3>
+
+🧮 I used to work part-time as a maths tutor   
 
 <h3 align="left"><b>📊 GitHub Stats:</b></h3>
 
