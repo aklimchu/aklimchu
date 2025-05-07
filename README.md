@@ -1,8 +1,8 @@
 <h2 align="left">💫 About Me:</h2>
 
 👋 Hi, I’m Andrei :)  
-👀 I’m interested in Web, Mobile and Software Development  
-👨🏻‍💻 Now I study at Hive Helsinki coding academy  
+👀 I’m interested in Software Development, Systems Development and Cloud Engineering 
+👨🏻‍💻 Now I study at [Hive Helsinki](https://www.hive.fi/) coding academy
 🌱 I’m currently working with C and C++  
 💼 I have a background in sales and business development  
 💞️ I’m looking for an opportunity in a company where I can improve my skills
