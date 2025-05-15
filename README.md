@@ -1,4 +1,4 @@
-<h2 align="left">💫 About Me:</h2>
+<h2 align="left">✨ About Me:</h2>
 
 👋 Hi, I’m Andrei :)  
 👀 I’m interested in Software Development, Systems Development and Cloud Engineering             
