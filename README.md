@@ -4,7 +4,7 @@
 👀 I’m interested in Software Development, Systems Development and Cloud Engineering             
 👨🏻‍💻 Now I study at [Hive Helsinki](https://www.hive.fi/) coding academy          
 🌱 I’m currently working with C and C++  
-💼 I have a background in engineering consultancy sales
+💼 I have a background in engineering consultancy sales   
 💞️ I’m looking for an opportunity in a company where I can improve my skills
 
 ###
