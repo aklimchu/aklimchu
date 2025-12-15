@@ -54,11 +54,12 @@
 | 📦 Project | Language | Description |
 |-----------|---------------|-----------------|
 |  [transcendence](https://github.com/aklimchu/transcendence) | Python (Django), JS | Full-stack application with 2 games |
+|  [XML Validator & Parser](https://github.com/aklimchu/XML-Validator-Parser) | Python | A tool to validate an XML file and extract key payment details  | 
 |  [Clerk AI Chat](https://github.com/aklimchu/Clerk-AI-Chat) | Python | AI-powered application for creating email responses | 
 |  [ft_irc](https://github.com/aklimchu/ft_irc) | C++ | Internet Relay Chat (IRC) server implemented in C++ |
-|  [Inception](https://github.com/aklimchu/Inception) | Docker, bash | Virtualizing a full infrastructure using Docker Compose | 
 |  [minishell](https://github.com/aklimchu/minishell) | C | A project that recreates the basic functionalities of the Bash shell | 
-|  [cub3D](https://github.com/aklimchu/cub3D) | C | A “realistic” 3D graphical representation of the inside of a maze | 
+|  [cub3D](https://github.com/aklimchu/cub3D) | C | A 3D maze exploration game built using Ray-Casting principles | 
+
 
 
 ###
