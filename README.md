@@ -4,7 +4,7 @@
 👀 I’m interested in Software Development, Systems Development and Cloud Engineering             
 🚀 I have graduated from [Hive Helsinki](https://www.hive.fi/) coding academy          
 🌱 I’m currently coding in C, C++, Python and Javascript               
-💻 I’m working at [XMLDation](https://www.xmldation.com/en)) as a Technical Specialist
+💻 I’m working at [XMLDation](https://www.xmldation.com/en) as a Technical Specialist
 
 ###
 
