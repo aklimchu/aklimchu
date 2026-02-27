@@ -2,10 +2,9 @@
 
 👋 Hi, I’m Andrei :)  
 👀 I’m interested in Software Development, Systems Development and Cloud Engineering             
-👨🏻‍💻 I have completed the Common Core at [Hive Helsinki](https://www.hive.fi/) coding academy          
-🌱 I’m currently working with C, C++, Python and Javascript               
-💼 I have a background in engineering consultancy sales   
-💞️ I’m looking for an opportunity in a company where I can improve my skills
+🚀 I have graduated from [Hive Helsinki](https://www.hive.fi/) coding academy          
+🌱 I’m currently coding in C, C++, Python and Javascript               
+💻 I’m working at XMLDation Oy as a Technical Specialist
 
 ###
 
